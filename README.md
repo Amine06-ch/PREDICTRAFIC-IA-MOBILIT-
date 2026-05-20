@@ -42,15 +42,12 @@ Plaintext
 ├── app.py              # Application Streamlit principale
 └── requirements.txt    # Dépendances du projet
 
+
+
 👤 Auteur
 Amine Chachou - Étudiant en Data & IA - Paris YNOV Campus
 
 
 ---
 
-### Comment l'appliquer :
-1. Sur ta page GitHub, clique sur **`README.md`**.
-2. Clique sur l'icône du **crayon** (Edit file) en haut à droite du bloc de texte.
-3. Efface tout ce qui s'y trouve et colle le texte ci-dessus.
-4. Descends tout en bas de la page, dans la case "Commit changes", écris "Mise à jour documentation" et clique sur le bouton vert **"Commit changes"**.
 
